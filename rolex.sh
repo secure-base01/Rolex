@@ -25,7 +25,7 @@ declare -rx Xwireless_deauth_interval="20"
 #                statements... Every 'Menu' would be a child case statement of the parent case 
 #                statement.. You can easily pluck out and/or add in menu items if you know how to 
 #                write shell scripts. You dont really have to worry about breaking anything.
-#        AUTHOR: xXxSuPeRbxXx <https://github.com/aLeRt> 
+#        AUTHOR: secure-base01 <https://github.com/secure-base01/> 
 #       CREATED: 01/14/2019 11:39
 #      REVISION:  ---
 #===============================================================================
